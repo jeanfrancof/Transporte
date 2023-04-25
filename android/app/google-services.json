@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322583134192",
+    "project_id": "cootrancznorte-5a24e",
+    "storage_bucket": "cootrancznorte-5a24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322583134192:android:95358d2c016e7c8a14e735",
+        "android_client_info": {
+          "package_name": "com.example.transporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322583134192-70ug6arhdl4kn972ikemft8u8q1qr6lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transporte",
+            "certificate_hash": "9215d27690ec8c260a6e70c9ad9a82d31ed9bd90"
+          }
+        },
+        {
+          "client_id": "322583134192-qujlk18lvnr1olbgok8tmt5716m4deld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeWNJNBe4TmK2MF3ijAjvDifSM6sHxhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322583134192-qujlk18lvnr1olbgok8tmt5716m4deld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
